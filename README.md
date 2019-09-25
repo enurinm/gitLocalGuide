@@ -74,6 +74,6 @@ $ git pull //원격저장소의 내용 받아오기+merge
 
 - git 명령어 정리 2 : [https://medium.com/sjk5766/git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-a11f8d352cc5](https://medium.com/sjk5766/git-명령어-정리-a11f8d352cc5)  
 
-- pull request 이해하기 : [https://velog.io/@zansol/Pull-Request-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0](velog.io/@zansol/Pull-Request-이해하기)
+- pull request 이해하기 :  [https://velog.io/@zansol/Pull-Request-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0](https://velog.io/@zansol/Pull-Request-이해하기)
 
   
