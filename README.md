@@ -1,2 +1,5 @@
-# gitLocalGuide
-개인 참조용
+# git Local Guide
+
+
+#명령어  
+---
