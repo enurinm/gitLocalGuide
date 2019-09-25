@@ -1,4 +1,4 @@
-# gitLab Local Guide
+# GitLab Local Guide
 
 ## 주 사용 명령어  
 
