@@ -14,7 +14,7 @@
 
 ```bash
 $ git clone (레포지토리 url) //레포지토리 가져오기
-$ git remote update //원격 브렌치 
+$ git remote update //원격 브렌치 최신으로 업데이트  
 
 $ git branch //브랜치 목록 확인(현재 파일(=로컬)에서), 앞에 * 붙은게 현재 브랜치
 $ git branch -r //원격 브랜치 목록 보기
