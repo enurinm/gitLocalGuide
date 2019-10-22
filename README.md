@@ -50,6 +50,7 @@ $ git commit * -m "커밋 메세지" //커밋 메세지 적고 커밋
 $ git commit -v //커밋할 때 변경사항 확인
 
 $ git push origin (브랜치명) //add, commit 후 원격 브랜치에 push, origin은 remote name
+$ git push -u origin (브랜치명) //원격에 로컬 브랜치를 새로운 브랜치로 올림
 ```
 
 - 변경사항 확인 코드 참조 : https://blog.outsider.ne.kr/1247
