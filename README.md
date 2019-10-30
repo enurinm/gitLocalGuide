@@ -73,6 +73,7 @@ $ git pull //원격저장소의 내용 받아오기+merge
 $ git reset --hard (커밋번호) //해당 커밋으로 head를 되돌리고 그 이후 내역은 삭제
 $ git reset --soft (커밋번호)
 ```
+- reset, revert 코드 참조 : https://www.devpools.kr/2017/02/05/%EC%B4%88%EB%B3%B4%EC%9A%A9-git-%EB%90%98%EB%8F%8C%EB%A6%AC%EA%B8%B0-reset-revert/
 
 
 
