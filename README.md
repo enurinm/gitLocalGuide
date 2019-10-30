@@ -43,11 +43,14 @@ $ git status //파일 목록 보기
 
 ```bash
 $ git add * //전체 add
+$ git add .
 $ git add (파일명) //해당 파일 add
 $ git add -p //추가할 때 변경사항 확인
 
 $ git commit * -m "커밋 메세지" //커밋 메세지 적고 커밋
 $ git commit -v //커밋할 때 변경사항 확인
+
+$ git merge (저 브렌치에서) (이 브렌치로) //왼쪽 브렌치를 오른쪽브렌치에 합침(변경되는쪽: 오른쪽)
 
 $ git push origin (브랜치명) //add, commit 후 원격 브랜치에 push, origin은 remote name
 $ git push -u origin (브랜치명) //원격에 로컬 브랜치를 새로운 브랜치로 올림
@@ -60,6 +63,15 @@ $ git push -u origin (브랜치명) //원격에 로컬 브랜치를 새로운 �
 ```bash
 $ git fetch //원격저장소의 내용 받아오기
 $ git pull //원격저장소의 내용 받아오기+merge
+```
+
+
+
+### 기타
+
+```bash
+$ git reset --hard (커밋번호) //해당 커밋으로 head를 되돌리고 그 이후 내역은 삭제
+$ git reset --soft (커밋번호)
 ```
 
 
