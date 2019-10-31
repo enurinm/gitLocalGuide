@@ -43,7 +43,7 @@ $ git status //파일 목록 보기
 
 ```bash
 $ git add * //전체 add
-$ git add .
+$ git add . //class파일 빼고 java만 add되는듯!
 $ git add (파일명) //해당 파일 add
 $ git add -p //추가할 때 변경사항 확인
 
