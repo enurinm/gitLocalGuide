@@ -42,6 +42,8 @@ $ git status //파일 목록 보기
 1. add - commit - push
 
 ```bash
+$ git log //커밋 히스토리 조회
+
 $ git add * //전체 add
 $ git add . //class파일 빼고 java만 add되는듯!
 $ git add (파일명) //해당 파일 add
@@ -91,4 +93,5 @@ $ git reset --soft (커밋번호)
 
 - pull request 이해하기 :  [https://velog.io/@zansol/Pull-Request-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0](https://velog.io/@zansol/Pull-Request-이해하기)
 
+- git log : [https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-%EC%BB%A4%EB%B0%8B-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0](https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-%EC%BB%A4%EB%B0%8B-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0)
   
